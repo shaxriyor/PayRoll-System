@@ -1,0 +1,20 @@
+-------------------------------------------
+Employee Number:            1
+Lastname:                   shakh
+Firstname:                  shakh
+Middlename:                 shakh
+-------------------------------------------
+Rate per day:               P250
+Enter Working Days:         10                          
+Grosspay:                   2500
+-------------------------------------------
+Cash Advance:               3000
+SSS:                        130
+Phil Health:                160
+Pagibig:                    150
+Others:                     500
+Deductions:                 3940
+-------------------------------------------
+Netpay:                     -1440
+-------------------------------------------
+

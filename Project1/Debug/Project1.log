@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\inha\project\oop\project1\project1\source.cpp(292): warning C4101: 'temp_id': unreferenced local variable
+d:\inha\project\oop\project1\project1\source.cpp(292): warning C4101: 'get_id': unreferenced local variable
+d:\inha\project\oop\project1\project1\source.cpp(296): warning C4101: 'salary_choice': unreferenced local variable
+  Project1.vcxproj -> D:\inha\project\OOP\Project1\Debug\Project1.exe
